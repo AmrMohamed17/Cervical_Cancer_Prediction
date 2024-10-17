@@ -24,7 +24,7 @@ pip install pandas numpy seaborn matplotlib plotly xgboost scikit-learn jupytert
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cervical-cancer-analysis.git
+   git clone https://github.com/AmrMohamed17/cervical-cancer-analysis.git
    cd cervical-cancer-analysis
    ```
 
